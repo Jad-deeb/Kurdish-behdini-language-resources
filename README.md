@@ -1,5 +1,7 @@
 # Kurdish (Behdini) Language Dataset
 
+Online URL : https://tinyurl.com/4kytf3wv
+
 This repository contains datasets of the Kurdish (Behdini) dialect, extracted from a dictionary app, including:
 
 - **Verbs** with tense and person forms
